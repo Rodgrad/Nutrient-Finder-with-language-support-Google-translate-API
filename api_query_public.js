@@ -7,7 +7,7 @@ $('#form-item').submit(function(){
 
 	event.preventDefault();
 	var settings = {
-		"async": true,
+		"async": false,
 		"crossDomain": true,
 		"url": "https://edamam-food-and-grocery-database.p.rapidapi.com/parser?ingr=" + itemEN,
 		"method": "GET",
