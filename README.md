@@ -26,7 +26,8 @@ For example translate(data, 'en', 'es') to translate to Spanish.
 # Translate labels
 
 I have avoided using Google API to translate labels to keep expenses low, but it can be done
-by same translate function as for example in file apis_jquery_public.js on line 28
+by same translate function as for example in file apis_jquery_public.js on line 28 just replace
+'Food' label with translate('Food', 'en', 'hr') and it will translate label 'Food' to Croatian word for  food.
 
 
 
