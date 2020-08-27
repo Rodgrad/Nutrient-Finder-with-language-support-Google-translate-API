@@ -13,7 +13,7 @@ Using Edamam Food and Grocery Database API to fetch food nutrient values and Goo
 
 # Idea
 
-Idea is to use two API's to make dynamic support for native languages lacking good API for their language by using Google translate API
+Idea is to use two API's to make dynamic support for native languages lacking good API for food nutrition values by using Google translate API
 to convert query data to english and response data to what ever native language developer choose.
 
 
