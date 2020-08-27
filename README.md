@@ -30,6 +30,9 @@ by same translate function as for example in file apis_jquery_public.js on line 
 'Food' label with translate('Food', 'en', 'hr') and it will translate label 'Food' to Croatian word for  food.
 Advice is to keep usage for intended, and that is getting right data from native language query.
 
+# Note
+Google translate API does have support for language detection, so you could use it to generate translate function
+srclang i exlang arguments.
 
 
 By the time I have finished I spend all mine Google API credit so images are in English, but here are some examples of some data aquired with
