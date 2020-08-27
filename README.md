@@ -1,8 +1,9 @@
 # NutrientFinder-with-language-support
 
 Resources:
-https://rapidapi.com/edamam/api/Edamam%20Food%20and%20Grocery%20Database
 
+https://rapidapi.com/edamam/api/Edamam%20Food%20and%20Grocery%20Database
+https://rapidapi.com/googlecloud/api/google-translate1
 JS, JQUERY
 PHP
 
