@@ -13,7 +13,7 @@ $('#form-item').submit(function(){
 		"method": "GET",
 		"headers": {
 			"x-rapidapi-host": "edamam-food-and-grocery-database.p.rapidapi.com",
-			"x-rapidapi-key": "b01714bcedmsh0d0709fc5d4c30bp1905c1jsnfd83feb89bc1"
+			"x-rapidapi-key": "YOUR API KEY"
 		}
 	}
 	$.ajax(settings).done(function (response) {
