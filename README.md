@@ -25,7 +25,9 @@ I have avoided using Google API to translate labels to keep expenses low, but it
 
 # Note
 
-Google Translate API does have support for language detection, so you could use it to generate translate function srclang i exlang arguments.
+Google Translate API does have support for language detection, so you could use it to generate translate function srclang and exlang arguments.
+
+
 By the time I have finished I spend all mine Google API credit so images are in English, but here are some examples of some data acquired with Edamam Food API.
 
 ![GitHub Logo](/images/1.png)
