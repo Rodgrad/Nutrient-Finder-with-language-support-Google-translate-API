@@ -31,7 +31,7 @@ by same translate function as for example in file apis_jquery_public.js on line 
 
 
 
-By the time I have finished I spend all mine Google API credit so images are in english, but here are some examples of some data aquired with
+By the time I have finished I spend all mine Google API credit so images are in English, but here are some examples of some data aquired with
 Edamam Food  API.
 
 
