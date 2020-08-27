@@ -1,4 +1,4 @@
-# NutrientFinder-with-language-support
+# NutrientFinder-with-language-support using Google translate API
 
 Resources:
 
